@@ -2,28 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc759630-29f8-4a2e-ba98-191f82447e2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/operator/OperasiUnary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/operator/OperatorAritmatika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/operator/OperatorCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/operator/OperatorEquality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/percabangan/cobaSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/percabangan/cobaSwitch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/percabangan/hitungIndeksPrestasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/CobaFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/DoWhileCoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/SegitigaBintang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/WhileCoba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaArray2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaIndexOutofBound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/kumpulanInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/loopingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/basic/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/basic/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/basic/kendaraan/Kereta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/basic/kendaraan/Kereta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/basic/kendaraan/Mobil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/basic/kendaraan/Mobil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/basic/kendaraan/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/basic/kendaraan/Motor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/basic/musik/Gitar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/basic/musik/Gitar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/inputoutput/InputOutputFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/inputoutput/InputOutputFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/inputoutput/UseOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/inputoutput/UseOutput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/inputoutput/UserBufferedReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/inputoutput/UserBufferedReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/operator/OperatorAssigment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StrukturDasar/ac/id/mercubuana/javafundamental/operator/OperatorAssigment.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,54 +22,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/basic/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/operator/OperatorEquality.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/operator/OperatorCondition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="103" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/percabangan/hitungIndeksPrestasi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/percabangan/cobaSwitch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-44">
-              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/percabangan/cobaSwitch2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -98,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/CobaFor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -107,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/SegitigaBintang.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -121,11 +57,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/DoWhileCoba.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/kumpulanInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/loopingArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaArray2D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaIndexOutofBound.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -160,11 +141,17 @@
         <option value="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/SegitigaBintang.java" />
         <option value="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/WhileCoba.java" />
         <option value="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/DoWhileCoba.java" />
+        <option value="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaArray.java" />
+        <option value="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/kumpulanInteger.java" />
+        <option value="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/loopingArray.java" />
+        <option value="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaArray2D.java" />
+        <option value="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaIndexOutofBound.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1366" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="683" />
+    <option name="width" value="683" />
     <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -199,6 +186,13 @@
               <item name="StrukturDasar" type="b2602c69:ProjectViewProjectNode" />
               <item name="StrukturDasar" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javafundamental" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StrukturDasar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StrukturDasar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -210,6 +204,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -223,13 +218,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DoWhileCoba">
-    <configuration name="CobaFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.perulangan.CobaFor" />
+  <component name="RunManager" selected="Application.cobaIndexOutofBound">
+    <configuration name="cobaArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.array.cobaArray" />
       <module name="StrukturDasar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.perulangan.*" />
+          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileCoba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.perulangan.DoWhileCoba" />
+    <configuration name="cobaArray2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.array.cobaArray2D" />
       <module name="StrukturDasar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.perulangan.*" />
+          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SegitigaBintang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.perulangan.SegitigaBintang" />
+    <configuration name="cobaIndexOutofBound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.array.cobaIndexOutofBound" />
       <module name="StrukturDasar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.perulangan.*" />
+          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileCoba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.perulangan.WhileCoba" />
+    <configuration name="kumpulanInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.array.kumpulanInteger" />
       <module name="StrukturDasar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.perulangan.*" />
+          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cobaSwitch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.percabangan.cobaSwitch2" />
+    <configuration name="loopingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.array.loopingArray" />
       <module name="StrukturDasar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.percabangan.*" />
+          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoWhileCoba" />
-        <item itemvalue="Application.WhileCoba" />
-        <item itemvalue="Application.SegitigaBintang" />
-        <item itemvalue="Application.CobaFor" />
-        <item itemvalue="Application.cobaSwitch2" />
+        <item itemvalue="Application.cobaIndexOutofBound" />
+        <item itemvalue="Application.cobaArray2D" />
+        <item itemvalue="Application.loopingArray" />
+        <item itemvalue="Application.kumpulanInteger" />
+        <item itemvalue="Application.cobaArray" />
       </list>
     </recent_temporary>
   </component>
@@ -321,9 +316,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="725" extended-state="6" />
+    <frame x="683" y="0" width="683" height="725" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4598485" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.9529042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +329,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991454" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32307693" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32307693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -342,6 +338,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Flutter Performance" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -350,6 +347,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Flutter Inspector" order="8" />
+      <window_info anchor="right" id="Flutter Outline" order="9" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -471,8 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/percabangan/cobaSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        <state relative-caret-position="150">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -486,14 +485,14 @@
     <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/CobaFor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/perulangan/SegitigaBintang.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -508,6 +507,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/kumpulanInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/loopingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaArray2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="83" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/array/cobaIndexOutofBound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
