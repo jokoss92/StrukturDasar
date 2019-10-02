@@ -7,6 +7,5 @@ public class cobaIndexOutofBound {
         System.out.println(arrA[1]);
         System.out.println(arrA[2]);
         System.out.println(arrA[3]);
-        System.out.println(arrA[4]);
     }
 }
