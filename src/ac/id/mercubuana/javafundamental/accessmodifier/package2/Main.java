@@ -9,5 +9,7 @@ public class Main {
 //
 //        System.out.println(kelasA.memberB);
 //        System.out.println(kelasA.memberC);
+        KelasB kelasB = new KelasB();
+        kelasB.methodC();
     }
 }
