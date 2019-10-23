@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc759630-29f8-4a2e-ba98-191f82447e2d" name="Default Changelist" comment="Add Inheritance">
-      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/inheritance/Mamalia.java" afterDir="false" />
+    <list default="true" id="bc759630-29f8-4a2e-ba98-191f82447e2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/collection/ListPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/collection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/collection/MapPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/collection/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/exception/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/generics/GenericsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/generics/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/generics/Wildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/generics/WildcardVSGenericsMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/inheritance/Hewan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/inheritance/Hewan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/inheritance/Kucing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/inheritance/Kucing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/inheritance/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -50,52 +56,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GenericsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.generics.GenericsMethod" />
+      <module name="StrukturDasar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.accessmodifier.package2.Main" />
+      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.generics.Main" />
       <module name="StrukturDasar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.accessmodifier.package2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.propertimetode.Main" />
-      <module name="StrukturDasar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.propertimetode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.accessmodifier.package3.Main" />
-      <module name="StrukturDasar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.accessmodifier.package3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.inheritance.Main" />
-      <module name="StrukturDasar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.inheritance.*" />
+          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +84,37 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.accessmodifier.package1.Main" />
+      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.exception.Main" />
       <module name="StrukturDasar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.accessmodifier.package1.*" />
+          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapPlanet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.collection.MapPlanet" />
+      <module name="StrukturDasar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WildcardVSGenericsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ac.id.mercubuana.javafundamental.generics.WildcardVSGenericsMethod" />
+      <module name="StrukturDasar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ac.id.mercubuana.javafundamental.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.WildcardVSGenericsMethod" />
+        <item itemvalue="Application.GenericsMethod" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.MapPlanet" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571154646936</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Interface Mamalia">
+      <created>1571499688836</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571499688836</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,7 +198,8 @@
     <MESSAGE value="Add Scanner" />
     <MESSAGE value="Add Interface" />
     <MESSAGE value="Add Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Inheritance" />
+    <MESSAGE value="Add Interface Mamalia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Interface Mamalia" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -194,6 +208,11 @@
           <url>file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/obyek/Main.java</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ac/id/mercubuana/javafundamental/collection/MapPlanet.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
